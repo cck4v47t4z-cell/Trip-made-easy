@@ -33,7 +33,7 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "owner": "arcadalabs",
+    "owner": "reborn-team",
     "platforms": [
       "ios",
       "android",
